@@ -1,4 +1,4 @@
 # desenvolve-python-basico
-Cidade onde o curso está sendo realizado: Projeto Desenvolve - Itabira.
-Nome da disciplina: Programação básica com Python.
+Projeto Desenvolve - Itabira. 
+Disciplina: Programação básica com Python. 
 Número de matrícula: PDITA478.
